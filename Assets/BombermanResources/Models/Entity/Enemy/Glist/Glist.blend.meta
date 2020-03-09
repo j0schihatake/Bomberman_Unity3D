@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: d9f2cc9bb5b733e4587f725b6f9e04c4
+timeCreated: 1499882695
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: am_1
+    100002: am_2
+    100004: am_3
+    100006: Am_Body
+    100008: am_Body
+    100010: Bone
+    100012: Bone_001
+    100014: Bone_002
+    100016: Bone_003
+    100018: Bone_004
+    100020: Bone_005
+    100022: Bone_006
+    100024: Bone_007
+    100026: Bone_008
+    100028: Bone_009
+    100030: Bone_010
+    100032: //RootNode
+    400000: am_1
+    400002: am_2
+    400004: am_3
+    400006: Am_Body
+    400008: am_Body
+    400010: Bone
+    400012: Bone_001
+    400014: Bone_002
+    400016: Bone_003
+    400018: Bone_004
+    400020: Bone_005
+    400022: Bone_006
+    400024: Bone_007
+    400026: Bone_008
+    400028: Bone_009
+    400030: Bone_010
+    400032: //RootNode
+    4300000: am_Body
+    4300002: am_3
+    4300004: am_2
+    4300006: am_1
+    7400000: Default Take
+    7400002: iddle_0
+    7400004: move
+    7400006: destroy_at_bomb
+    7400008: player_eat
+    7400010: eat_Player_start
+    9500000: //RootNode
+    13700000: am_1
+    13700002: am_2
+    13700004: am_3
+    13700006: am_Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: am_1
+        weight: 1
+      - path: am_2
+        weight: 1
+      - path: am_3
+        weight: 1
+      - path: am_Body
+        weight: 1
+      - path: Am_Body
+        weight: 1
+      - path: Am_Body/Bone
+        weight: 1
+      - path: Am_Body/Bone/Bone_007
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008/Bone_009
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008/Bone_009/Bone_010
+        weight: 1
+      - path: Am_Body/Bone_001
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004/Bone_005
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004/Bone_005/Bone_006
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: iddle_0
+      takeName: iddle_0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: am_1
+        weight: 1
+      - path: am_2
+        weight: 1
+      - path: am_3
+        weight: 1
+      - path: am_Body
+        weight: 1
+      - path: Am_Body
+        weight: 1
+      - path: Am_Body/Bone
+        weight: 1
+      - path: Am_Body/Bone/Bone_007
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008/Bone_009
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008/Bone_009/Bone_010
+        weight: 1
+      - path: Am_Body/Bone_001
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004/Bone_005
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004/Bone_005/Bone_006
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: move
+      takeName: move
+      firstFrame: -1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: am_1
+        weight: 1
+      - path: am_2
+        weight: 1
+      - path: am_3
+        weight: 1
+      - path: am_Body
+        weight: 1
+      - path: Am_Body
+        weight: 1
+      - path: Am_Body/Bone
+        weight: 1
+      - path: Am_Body/Bone/Bone_007
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008/Bone_009
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008/Bone_009/Bone_010
+        weight: 1
+      - path: Am_Body/Bone_001
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004/Bone_005
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004/Bone_005/Bone_006
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: destroy_at_bomb
+      takeName: destroy_at_bomb
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: am_1
+        weight: 1
+      - path: am_2
+        weight: 1
+      - path: am_3
+        weight: 1
+      - path: am_Body
+        weight: 1
+      - path: Am_Body
+        weight: 1
+      - path: Am_Body/Bone
+        weight: 1
+      - path: Am_Body/Bone/Bone_007
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008/Bone_009
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008/Bone_009/Bone_010
+        weight: 1
+      - path: Am_Body/Bone_001
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004/Bone_005
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004/Bone_005/Bone_006
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: player_eat
+      takeName: player_eat
+      firstFrame: 1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: am_1
+        weight: 1
+      - path: am_2
+        weight: 1
+      - path: am_3
+        weight: 1
+      - path: am_Body
+        weight: 1
+      - path: Am_Body
+        weight: 1
+      - path: Am_Body/Bone
+        weight: 1
+      - path: Am_Body/Bone/Bone_007
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008/Bone_009
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008/Bone_009/Bone_010
+        weight: 1
+      - path: Am_Body/Bone_001
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004/Bone_005
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004/Bone_005/Bone_006
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: eat_Player_start
+      takeName: eat_Player_start
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: am_1
+        weight: 1
+      - path: am_2
+        weight: 1
+      - path: am_3
+        weight: 1
+      - path: am_Body
+        weight: 1
+      - path: Am_Body
+        weight: 1
+      - path: Am_Body/Bone
+        weight: 1
+      - path: Am_Body/Bone/Bone_007
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008/Bone_009
+        weight: 1
+      - path: Am_Body/Bone/Bone_007/Bone_008/Bone_009/Bone_010
+        weight: 1
+      - path: Am_Body/Bone_001
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004/Bone_005
+        weight: 1
+      - path: Am_Body/Bone_001/Bone_002/Bone_003/Bone_004/Bone_005/Bone_006
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
