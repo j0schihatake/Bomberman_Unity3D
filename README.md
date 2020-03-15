@@ -1,6 +1,8 @@
 # Bomberman_Unity3D
 Тестовое задание разработать Bomberman-a.
 
+![](BombermanComplete.gif)
+
 https://www.youtube.com/watch?v=6J271pc2Cmo&t=61s
 
 Тестовое задание на должность 
